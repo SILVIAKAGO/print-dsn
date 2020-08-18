@@ -1,0 +1,19 @@
+ </div>
+         <div class="row">
+             <!-- <div class="column">
+             <img src="./images/IMG-20190927-WA0025ssss.jpg"alt="Amodoi" style="width:100%">
+             </div> --> 
+                 <div class="coloumn">
+                     <h1>About me</h1>
+                     <p>I'm currently a student at Moringa school,pursuing webdesign</p>
+                     <h3>Web Development</h3>
+                     <p>Committed to gain knowlage to create effective websites which can be effective in the nect generation</p>
+                     <p>For a start, i was able to create effective website, easy and transparent</p>
+                     <h3>Web Aplication</h3>
+                     <p>i design web applications that are compatible with cliants and any device</p>
+
+                </div>
+        </div>
+</div>
+</body>
+</html>
